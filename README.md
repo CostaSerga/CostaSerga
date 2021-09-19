@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CostaSerga
+- 👀 I’m interested in AI and Quantum Computers
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on AI and QC developers
+- 📫 How to reach me kvserga@gmail.com
